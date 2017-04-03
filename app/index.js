@@ -21,6 +21,7 @@ class HomeScreen extends React.Component {
   };
   render() {
     return <Text>Hello, Navigation!</Text>;
+    
   }
 }
 
